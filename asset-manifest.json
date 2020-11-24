@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hk-todo/static/css/main.68fb5755.chunk.css",
+    "main.js": "/hk-todo/static/js/main.86d210a8.chunk.js",
+    "main.js.map": "/hk-todo/static/js/main.86d210a8.chunk.js.map",
+    "runtime-main.js": "/hk-todo/static/js/runtime-main.e24dce91.js",
+    "runtime-main.js.map": "/hk-todo/static/js/runtime-main.e24dce91.js.map",
+    "static/js/2.55e0be7b.chunk.js": "/hk-todo/static/js/2.55e0be7b.chunk.js",
+    "static/js/2.55e0be7b.chunk.js.map": "/hk-todo/static/js/2.55e0be7b.chunk.js.map",
+    "index.html": "/hk-todo/index.html",
+    "static/css/main.68fb5755.chunk.css.map": "/hk-todo/static/css/main.68fb5755.chunk.css.map",
+    "static/js/2.55e0be7b.chunk.js.LICENSE.txt": "/hk-todo/static/js/2.55e0be7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e24dce91.js",
+    "static/js/2.55e0be7b.chunk.js",
+    "static/css/main.68fb5755.chunk.css",
+    "static/js/main.86d210a8.chunk.js"
+  ]
+}
